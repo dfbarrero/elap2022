@@ -730,21 +730,21 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   background-color: #0e1b4d;
   color: #fff;
-  padding: 10px 100px;
+  padding: 10px 50px;
 }
 @media (max-width: 991px) {
   #schedule .nav-tabs a {
-    padding: 8px 60px;
+    padding: 8px 25px;
   }
 }
 @media (max-width: 767px) {
   #schedule .nav-tabs a {
-    padding: 8px 50px;
+    padding: 8px 20px;
   }
 }
 @media (max-width: 480px) {
   #schedule .nav-tabs a {
-    padding: 8px 30px;
+    padding: 8px 15px;
   }
 }
 #schedule .nav-tabs a.active {

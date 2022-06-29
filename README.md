@@ -6,10 +6,11 @@ https://isg-uah.github.io/elap2022/
 
 ## Material docente  
 
-### Curso de Imagen  
+### Curso de Procesamiento de Imágenes con Redes Neuronales Profundas  
 
-1. [Redes Neuronales](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/redesNeurales.pdf)  
-2. [Redes Neuronales Convolucionales](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/RedesNeuronalesConvolucionadas.pdf)  
-3. [Redes Neuronales Recurrentes](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/RedesNeuronalesRecurrentes.pdf)  
+1. [Redes Neuronales Básicas: Descenso de gradiente, métricas y ajuste de entrenamiento](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/redesNeurales.pdf)  
+2. [Redes Neuronales Convolucionales: Hiperparámetros, expansión de la BD de imágenes y trannsferencia de aprendizaje](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/RedesNeuronalesConvolucionadas.pdf)  
+3. [Redes Neuronales Recurrentes: Análisis de texto, word embeddings, One-Hot-Encoding y RNN básica](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/RedesNeuronalesRecurrentes.pdf)  
+4. [Códigos](http://github.com/ISG-UAH/elap2022/blob/main/courses/image)
 
-### Curso de NLP  
+### Curso de Procesamiento de Lenguaje Natural  

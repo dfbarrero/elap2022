@@ -18,3 +18,5 @@ https://isg-uah.github.io/elap2022/
 1. [Códigos PLN](https://github.com/ISG-UAH/elap2022/blob/main/)
 2. [Diapositivas](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/)
 3. [Corpus](https://github.com/ISG-UAH/elap2022/blob/main/)
+
+### [Muro para reportar empresas en Inteligencia Artificial y Aprendizaje Automático en Iberoamérica](https://padlet.com/wpereiragonzalez/j94pdyraldl7kc1c)

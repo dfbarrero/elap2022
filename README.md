@@ -12,5 +12,6 @@ https://isg-uah.github.io/elap2022/
 2. [Redes Neuronales Convolucionales: Hiperparámetros, expansión de la BD de imágenes y transferencia de aprendizaje](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/RedesNeuronalesConvolucionadas.pdf)  
 3. [Redes Neuronales Recurrentes: Análisis de texto, word embeddings, One-Hot-Encoding y RNN básica](https://github.com/ISG-UAH/elap2022/blob/main/courses/image/RedesNeuronalesRecurrentes.pdf)  
 4. [Códigos](http://github.com/ISG-UAH/elap2022/blob/main/codigos)
+5. [BD reducida perros y gatos](http://github.com/ISG-UAH/elap2022(blob/main/BD_Imagenes)
 
 ### Curso de Procesamiento de Lenguaje Natural  
